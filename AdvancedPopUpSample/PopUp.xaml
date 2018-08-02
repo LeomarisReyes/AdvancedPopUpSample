@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<popup:PopupPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="AdvancedPopUpSample.PopUp">
+  <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="0" Margin="0">
+<Frame WidthRequest="270" HeightRequest="300" Padding="15">
+      <StackLayout> 
+          <Image Source = "Logo" WidthRequest="70" HeightRequest="80" />
+           <Label Text ="Name:" />
+           <Entry Placeholder="Write your name" />
+             <Label Text ="Last name:" />
+           <Entry Placeholder="Write your last name" />
+            <Button Text="Send" BackgroundColor="#1094a1" HeightRequest="35" TextColor="White"></Button>
+      </StackLayout>
+    </Frame> 
+  </StackLayout>
+</popup:PopupPage>

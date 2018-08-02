@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{9ED551B3-11EE-4B10-9CA6-1EFFCBB7B88F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedPopUpSample/MainPage.xaml">
+    <Files>
+      <File FileName="AdvancedPopUpSample/MainPage.xaml" Line="8" Column="15" />
+      <File FileName="AdvancedPopUpSample/MainPage.xaml.cs" Line="35" Column="43" />
+      <File FileName="AdvancedPopUpSample/PopUp.xaml" Line="16" Column="19" />
+      <File FileName="AdvancedPopUpSample/PopUp.xaml.cs" Line="8" Column="35" />
+      <File FileName="AdvancedPopUpSample.Android/Resources/values/styles.xml" Line="2" Column="1" />
+      <File FileName="AdvancedPopUpSample.Android/MainActivity.cs" Line="19" Column="11" />
+      <File FileName="AdvancedPopUpSample.iOS/AppDelegate.cs" Line="27" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvancedPopUpSample" expanded="True">
+            <Node name="AdvancedPopUpSample" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="AdvancedPopUpSample.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True">
+                  <Node name="Logo.png" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdvancedPopUpSample.Android PreferredExecutionTarget="Android.01d16723cf9d46e2" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AdvancedPopUpSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.178DC366-EC0B-4935-A028-E241134F55D7" />
+</Properties>

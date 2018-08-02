@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:AdvancedPopUpSample" 
+             x:Class="AdvancedPopUpSample.MainPage"
+             BackgroundColor="#ffe6f7">
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" >
+        <Button Text="Click to display PopUp" BackgroundColor="#1094a1" Clicked="Button_OnClicked" WidthRequest="190" TextColor="White"/>
+    </StackLayout>
+</ContentPage>
